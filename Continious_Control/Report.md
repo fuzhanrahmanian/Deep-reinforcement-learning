@@ -54,9 +54,9 @@ The Critic networks utilised two fully connected layers both with 128 units with
 
 ### Rewards plot
 
-![Plot](images/plot.png)
+![Plot](Images/plot.png)
 
-![Episode](images/episode.png)
+![Episode](Images/episode.PNG)
 
 
 
