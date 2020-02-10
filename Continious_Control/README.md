@@ -7,7 +7,7 @@
 
 For this project, you will work with the [Reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#reacher) environment. The final goal is solving this environment with utilizing the Reinforcement learning models for continious actions. 
 
-![gif](images/reacher.gif)
+![gif](Images/reacher.gif)
 
 In this environment, a double-jointed arm can move to target locations. A reward of +0.1 is provided for each step that the agent's hand is in the goal location. Thus, the goal of your agent is to maintain its position at the target location for as many time steps as possible.
 
