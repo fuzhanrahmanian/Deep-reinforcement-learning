@@ -1,3 +1,3 @@
 # Description
-Cross Entropy Method: 
-train a Cross-Entropy Method with OpenAI Gym's MountainCarContinuous environment.
+Policy Gradient Method (reinforce)
+use an implementation of REINFORCE to solve OpenAI Gym's CartPole environment.
